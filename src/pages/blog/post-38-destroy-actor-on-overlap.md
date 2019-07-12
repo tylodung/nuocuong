@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /destroy-actor-on-overlap
 title: Destroy Actor on Overlap
-image: https://images.foody.vn/images/baotrang2(1).jpg
+image: http://www.mayphacaphegiare.com/sourcenew/upload/images/ca-phe-espresso-y.jpg
 video: W-vP-tCQcDY
 tags: ["beginner"]
 uev: 4.18.3
