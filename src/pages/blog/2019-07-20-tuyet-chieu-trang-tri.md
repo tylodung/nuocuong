@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /tuyet-chieu-trang-tri
 title: Bí kíp trang trí đồ uống đẹp mắt chỉ với vài mẹo đơn giản
-image: 'http://trangtrinauan.com/wp-content/uploads/2017/09/maxresdefault.jpg' 
+image: 'https://www.elleman.vn/wp-content/uploads/2019/06/25/%C4%91o%CC%82%CC%80-uo%CC%82%CC%81ng-ngon-hi%CC%80nh-a%CC%89nh-ca%CC%81c-loa%CC%A3i-cocktail-kha%CC%81c-nhau.jpg' 
 tags:
   - kem
 uev: 4.18.6
