@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /nguon-goc-tra-sua
 title: Nguồn gốc trà sữa trân châu
-image: 'https://nhathuoclongchau.com/upload/post/44063/images/tac-hai-cua-tra-sua-su-that-dang-sau-khien-ban-bat-ngo1.jpg' 
+image: 'https://vietblend.vn/wp-content/uploads/2018/12/maxresdefault-1.jpg' 
 tags:
-  - kem
+  - tra sua
 uev: 4.18.6
-date: 2019-07-19T13:12:33.962Z
+date: 2019-07-20T13:12:33.962Z
 description:
 
 ---

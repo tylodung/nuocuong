@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /latte-machiato
 title: Latte Machiato thức uống phù hợp với mọi lứa tuổi
-image: 'http://www.mayphacaphegiare.com/sourcenew/upload/images/ca-phe-espresso-y.jpg' 
+image: 'https://i.ytimg.com/vi/riGGxPR0iSg/maxresdefault.jpg' 
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-15T13:12:33.962Z
+date: 2019-07-20T13:12:33.962Z
 description:
  
 ---

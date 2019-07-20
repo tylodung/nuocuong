@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /tuyet-chieu-trang-tri
 title: Bí kíp trang trí đồ uống đẹp mắt chỉ với vài mẹo đơn giản
-image: 'https://thue.today/media/images/upload/B%C3%A0i%20Vi%E1%BA%BFt/Nha%20hang%20-%20Khach%20san/Cocktail%20l%C3%A0%20m%E1%BB%99t%20lo%E1%BA%A1i%20th%E1%BB%A9c%20u%E1%BB%91ng%20pha%20c%C3%B3%20c%E1%BB%93n.jpg' 
+image: 'http://trangtrinauan.com/wp-content/uploads/2017/09/maxresdefault.jpg' 
 tags:
   - kem
 uev: 4.18.6
-date: 2019-07-18T13:12:33.962Z
+date: 2019-07-20T13:12:33.962Z
 description:
  
 ---
