@@ -6,7 +6,7 @@ image: 'http://kenhthoitiet.vn/wp-content/uploads/2019/05/nuoc-chanh-1280x720.jp
 tags:
   - tra sua
 uev: 4.18.6
-date: 2019-07-14T13:12:33.962Z
+date: 2019-07-27T13:12:33.962Z
 description:
  
 ---
@@ -14,7 +14,7 @@ description:
 
 Cách pha nước chanh muối vừa để giải khát vừa tốt cho sức khỏe. Cùng điểm qua những công dụng tuyệt vời của nước chanh muối và cách làm thức uống bổ dưỡng này nhé!
 
-Công dụng của chanh muối
+**Công dụng của chanh muối**
 
 Chanh muối có tác dụng chữa đầy hơi và ăn không tiêu ở người lớn.
 
@@ -26,15 +26,15 @@ Tăng sự hoạt động của hệ tiêu hóa: Chanh muối có tác dụng gi
 
 Ngoài ra, chanh muối còn có những tác dụng nhỏ khác như: Tiêu đờm, khử âm trong máu, trị cảm cúm, thương hàn,…
 
-Cách pha nước chanh muối
+## Cách pha nước chanh muối
 
 Mọi người nên uống nước chanh muối mỗi ngày để tăng cường sức khỏe. Nước chanh muối pha nóng hay lạnh đều ngon nên có thể dùng quanh năm. Có 2 cách để pha nước chanh muối:
 
-Cách 1:  Cách pha nước chanh muối từ chanh ngâm
+**Cách 1:** Cách pha nước chanh muối từ chanh ngâm
 
-Nguyên liệu: 1 quả chanh muối, nước chanh muối, mật ong, đường, nước lọc (hoặc nước sôi), đá. Chanh muối bạn có thể mua sẵn ngoài siêu thị hoặc tự ngâm. Chanh tự ngâm phải để ít nhất 1 tháng mới có thể sử dụng.
+*Nguyên liệu:* 1 quả chanh muối, nước chanh muối, mật ong, đường, nước lọc (hoặc nước sôi), đá. Chanh muối bạn có thể mua sẵn ngoài siêu thị hoặc tự ngâm. Chanh tự ngâm phải để ít nhất 1 tháng mới có thể sử dụng.
 
-Cách làm:
+*Cách làm:*
 
 + Cắt quả chanh muối làm 4 phần và cho vào cốc
 
@@ -42,11 +42,11 @@ Cách làm:
 
 + Có thể cho thêm ô mai xí muội hoặc 1, 2 lát quất tươi để tăng hương vị
 
-Cách 2: Pha nước chanh muối từ chanh tươi
+**Cách 2:** Pha nước chanh muối từ chanh tươi
 
-Nguyên liệu: 2 quả chanh, 1 thìa café muối sạch, 500ml nước lọc, nước đường, đá
+*Nguyên liệu:* 2 quả chanh, 1 thìa café muối sạch, 500ml nước lọc, nước đường, đá
 
-Cách làm:
+*Cách làm:*
 
 Pha nước đường theo tỷ lệ: 100g đường hòa tan với 100ml nước sôi
 
