@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /cach-pha-nuoc-chanh-muoi
 title: Cách pha nước chanh muối tại nhà cực dễ
-image: 'http://kenhthoitiet.vn/wp-content/uploads/2019/05/nuoc-chanh-1280x720.jpg' 
+image: 'https://yeunoitro.net/wp-content/uploads/2014/12/Cach-pha-chanh-muoi-ngon-1280x720.jpg' 
 tags:
   - tra sua
 uev: 4.18.6
