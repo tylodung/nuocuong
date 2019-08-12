@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /tuyet-chieu-pha
 title: Kinh nghiệm pha trà sữa trái cây vị ngon hấp dẫn
-image: 'https://i.ytimg.com/vi/Y-uZxfMu6Nk/maxresdefault.jpg' 
+image: 'https://blog.wikilady.vn/wp-content/uploads/2019/06/2-1-1280x720.jpg' 
 tags:
-  - kem
+  - tra sua
 uev: 4.18.6
-date: 2019-07-19T13:12:33.962Z
+date: 2019-08-12T13:12:33.962Z
 description:
  
 ---
@@ -14,7 +14,6 @@ description:
 
 Hương vị trái cây trong những ly đồ uống luôn có sự hấp dẫn đặc biệt với tất cả mọi người. Chính vì vậy mà các chuỗi trà sữa Đài Loan nổi tiếng hiện nay như Gong Cha, Koi, Tiên Hưởng, Ding Tea, Bobapop… đã rất tinh ý bổ sung thêm các hương vị trà sữa trái cây vào trong menu đồ uống mình.
 
-![ten buc hinh](https://vietblend.vn/wp-content/uploads/2018/12/gong-cha-2.jpg "ten buc hinh")
 
 
 Trà sữa trái cây đã trở thành món đồ uống tạo nên “cơn bão” trong suốt thời gian vừa qua với các hương vị như: Kiwi, Dâu Tây, Bạc Hà, Đào,… Bạn có tò mò về cách thức pha chế cũng như bí quyết làm nên sự hấp dẫn đặc biệt cho những cốc trà sữa trái cây của các thương hiệu trên không? Vietblend sẽ chia sẻ với bạn ở bài viết này.

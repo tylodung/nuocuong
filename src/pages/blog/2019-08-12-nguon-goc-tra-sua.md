@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /nguon-goc-tra-sua
 title: Nguồn gốc trà sữa trân châu
-image: 'https://vietblend.vn/wp-content/uploads/2018/12/maxresdefault-1.jpg' 
+image: 'https://mythodaipho.vn/toiyeumytho/uploads/2018/01/bi-mat-ly-tra-sua-tran-chau-sieu-re-o-my-tho-tien-giang-1-1280x720.jpg' 
 tags:
   - tra sua
 uev: 4.18.6
-date: 2019-07-20T13:12:33.962Z
+date: 2019-08-12T13:12:33.962Z
 description:
 
 ---
@@ -14,7 +14,6 @@ description:
 
 Nguồn gốc của trà sữa trân châu chính là ở Đài Loan từ khoảng 27 năm trước (1980) và hiện nay vẫn là một đồ uống yêu thích hàng ngày của hàng triệu người.
 
-![ten buc hinh](https://vietblend.vn/wp-content/uploads/2018/12/maxresdefault-1.jpg "ten buc hinh")
 
 Không những thế trà sữa trân châu đã vươn xa đến khắp nơi trên thế giới từ Châu Á, Châu ÚC, Châu Âu đến cả Châu Mỹ… dưới hình thức những quầy bán hàng nhỏ.
  
