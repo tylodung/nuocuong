@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://thegioibanghe.vn/upload/news/895626519701.png' title="Trà Sữa Store" tagline="Uống là ghiền.." />
+        <Header image='https://s3-ap-southeast-1.amazonaws.com/misskick/wp-content/uploads/2017/10/26105729/cdn-img.healthco.jpg' title="Trà Sữa 5s" tagline="Uống là ghiền.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
