@@ -4,22 +4,22 @@ path: /cuoi-tuan-roi
 title: Học cách làm trà sữa trái cây vị xoài để thưởng thức vào cuối tuần
 image: 'https://i.ytimg.com/vi/oRQ6vCAopg8/maxresdefault.jpg' 
 tags:
-  - tra sua
+  - Tra sua
 uev: 4.18.6
-date: 2019-07-13T13:12:33.962Z
-description:
+date: 2019-10-06T13:12:33.962Z
+description: Trà sữa trái cây hiện đang là thức uống được giới trẻ yêu thích, trà sữa xoài mới lạ sẽ đem lại luồng gió mới cho các tín đồ trà sữa.
 
 ---
 
 
-Trà sữa trái cây hiện đang là thức uống được giới trẻ yêu thích, trà sữa xoài mới lạ sẽ đem lại luồng gió mới cho các tín đồ trà sữa. Bắt tay vào thực hiện ngay thôi nào!
+Bắt tay vào thực hiện ngay thôi nào!
 
 Trà sữa có lẽ đã là cái tên quá quen thuộc với mọi người tuy nhiên trà sữa trái cây thì vẫn còn khá mới. Vẫn mang hương vị trà nhưng bổ sung thêm mùi vị trái cây khi uống cùng những hạt trân châu dẻo dẻo, dai dai hay những hạt thạch giòn giòn thì quả thật mang đến một trải nghiệm rất thú vị. Với thời tiết như hiện nay rất phù hợp để thưởng thức một ly trà sữa trái cây vị xoài.
 
 
-Nguyên liệu cần chuẩn bị: Trà pha trà sữa, nước, bột sữa đài loan, đường nước, sinh tố xoài Berrino, trân châu đen, mật ong.
+**Nguyên liệu cần chuẩn bị:** Trà pha trà sữa, nước, bột sữa đài loan, đường nước, sinh tố xoài Berrino, trân châu đen, mật ong.
 
-Cách pha trà sữa trái cây vị xoài:
+**Cách pha trà sữa trái cây vị xoài:**
 
 Bước 1: ủ trà với nước sôi khoảng 5-7 phút rồi vớt bỏ phần bã.
 
@@ -34,8 +34,7 @@ Ngon hơn khi uống lạnh, các bạn cho vào ngăn mát tủ lạnh để tr
 
 Có thể không có mật ong cũng vẫn được nhưng mật ong khi kết hợp với xoài sẽ cho hương vị ngon hơn các bạn nhé!
 
-Lưu ý:
-
+**Lưu ý:**
 
 – Nếu dùng sữa tươi, các bạn dùng sữa tươi không đường sau đó thêm mật ong cho vừa miệng sẽ ngon hơn dùng sữa có đường.
 
