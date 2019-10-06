@@ -2,9 +2,9 @@
 templateKey: blog-post
 path: /nguon-goc-tra-sua
 title: Nguồn gốc trà sữa trân châu
-image: 'http://dulichvietnam.com.vn/data/trab(4).jpg' 
+image: 'https://i.khoahoc.tv/photos/image/2017/09/02/tra-sua-tran-chau.jpg' 
 tags:
-  - tra sua
+  - Tra sua
 uev: 4.18.6
 date: 2019-10-06T13:12:33.962Z
 description: Nguồn gốc của trà sữa trân châu chính là ở Đài Loan từ khoảng 27 năm trước (1980) và hiện nay vẫn là một đồ uống yêu thích hàng ngày của hàng triệu người.
