@@ -4,10 +4,10 @@ path: /2-cach-pha-cacao
 title: 2 Cách pha cacao nóng không ngon không tính tiền
 image: 'https://data2.1freewallpapers.com/download/cocoa-hot-chocolate-1280x720.jpg' 
 tags:
-  - tra sua
+  - Tra sua
 uev: 4.18.6
-date: 2019-07-14T13:12:33.962Z
-description:
+date: 2019-10-23T13:12:33.962Z
+description: Có thể nói cacao là món đồ uống truyền thống kinh điển chưa bao giờ lỗi mốt, uống nóng hay lạnh đều ngon, và phù hợp với mọi lứa tuổi.
  
 ---
 
@@ -15,46 +15,46 @@ description:
 Có thể nói cacao là món đồ uống truyền thống kinh điển chưa bao giờ lỗi mốt, uống nóng hay lạnh đều ngon, và phù hợp với mọi lứa tuổi. Không những thế, thưởng thức 1 ly cacao nóng nguyên chất mỗi buổi sáng còn mang lại những lợi ích tuyệt vời đối với sức khỏe.
 
 
-1. Lợi ích của cacao đối với sức khỏe:
+**1. Lợi ích của cacao đối với sức khỏe:**
  
 
-Cacao có giá trị dinh dưỡng cao:
+*Cacao có giá trị dinh dưỡng cao:*
 
-Trong cacao có đầy đủ các dưỡng chất cơ bản như protein, carbohydrate và lipid giúp cung cấp năng lượng. Hàm lượng chất xơ hòa tan cao trong cacao giúp tạo cảm giác no, giảm cảm giác thèm ăn, chống bệnh táo bón. Ngoài ra trong cacao còn có nhiều khoáng chất thiết yếu như mangan, đồng, sắt, magie,…cần cho quá trình trao đổi chất và xây dựng cơ thể.
+Trong cacao có đầy đủ các dưỡng chất cơ bản như protein, carbohydrate và lipid giúp cung cấp năng lượng. Hàm lượng chất xơ hòa tan cao trong cacao giúp tạo cảm giác no, giảm cảm giác thèm ăn, chống bệnh táo bón. Ngoài ra trong cacao còn có nhiều khoáng chất thiết yếu như mangan, đồng, sắt, magie,… cần cho quá trình trao đổi chất và xây dựng cơ thể.
  
 Trong cacao có hợp chất polyphenol giúp chống oxy hóa, chống lại các bệnh ung thư và ngăn ngừa lão hóa.
 Hợp chất flavonoid giúp thư giãn mạch máu, cải thiện lưu thông máu, vì vậy giúp ổn định huyết áp. Các flavonoid này cũng giúp ngăn ngừa hiện tượng các tiểu cầu trong máu tự hòa với nhau dẫn đến hình thành máu đông.
 
-Hạn chế bệnh tiểu đường:
+*Hạn chế bệnh tiểu đường:*
 
 Hợp chất polyphenol có trong cacao khiến insulin được tiết ra đều đặn nhằm ổn định đường huyết, rất tốt cho bệnh nhân tiểu đường.
 
 Giúp tinh thần hưng phấn minh mẫn hơn nhờ chất kích thích nhẹ alkanoid có trong cacao. Hàm lượng caffein rất thấp giúp đầu óc tỉnh táo nhưng không gây căng thẳng như café.
 
-Thức uống thư giãn: 
+*Thức uống thư giãn:*
 
 Cacao giúp thúc đẩy hàm lượng serotonin trong não. Serotonin được biết đến như chất làm não vui vẻ “happy brain”, giúp đẩy lùi stress.
 
-Làm đẹp da: 
+*Làm đẹp da:* 
 
 Các hoạt chất sinh học có trong cacao rất tốt cho làn da. Các flavonoid có thể bảo vệ da khỏi tác hại của ánh nắng mặt trời. Ngoài ra, cacao còn giúp cải thiện lưu thông máu dưới da, giúp da hồng hào hơn; tăng sự đàn hồi và độ ẩm cho da, giúp làm mờ nếp nhăn, cho bạn làn da trẻ trung xinh đẹp hơn.
 
-2. Cách pha cacao nóng nguyên chất ngon nhất
+**2. Cách pha cacao nóng nguyên chất ngon nhất**
 
-Cách pha cacao nóng 1: Cacao cream
+*Cách pha cacao nóng 1: Cacao cream*
 
 
 Nguyên liệu:
 
-+ Bột cacao: 10g (3 thìa café)
++ Bột cacao: 10g (3 thìa café);
 
-+ Kem Rich’s Creamer: 10ml
++ Kem Rich’s Creamer: 10ml;
 
-+ Sữa đặc: 20ml
++ Sữa đặc: 20ml;
 
-+ Nước nóng: 100ml
++ Nước nóng: 100ml;
 
-+ Đường nước: 15ml
++ Đường nước: 15ml;
 
 Cách làm:
 
@@ -66,15 +66,15 @@ Lưu ý 1: Với cách làm này bạn có thể thay thế 15ml đường nư�
 
 Lưu ý 2: Nếu thích béo ngậy hơn bạn có thể phun thêm 1 bông kem whipping lên trên dùng kèm với cacao nóng nhé.
 
-Cách pha cacao nóng 2: Cacao Marshmallow
+*Cách pha cacao nóng 2: Cacao Marshmallow*
 
 Nguyên liệu:
 
-Bột cacao: 3 thìa café
+Bột cacao: 3 thìa café;
 
-Sữa tươi không đường: 150ml
+Sữa tươi không đường: 150ml;
 
-Sữa đặc: 10ml
+Sữa đặc: 10ml;
 
 Cách làm:
 
