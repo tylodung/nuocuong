@@ -4,10 +4,10 @@ path: /cong-thuc-lam-tra-sua
 title: Cách làm Trà Sữa Thạch Phô Mai ngon như ngoài quán
 image: 'https://i.ytimg.com/vi/1FACs0csXV4/maxresdefault.jpg' 
 tags:
-  - tra sua
+  - Tra sua
 uev: 4.18.6
-date: 2019-07-14T13:12:33.962Z
-description:
+date: 2019-11-05T13:12:33.962Z
+description: Trà sữa từ lâu đã là thức uống quen thuộc với các bạn trẻ. Trà sữa có nhiều hương vị, có thể uống kèm nhiều thứ khác như thạch trái cây, trân châu.
  
 ---
 
@@ -16,50 +16,50 @@ Trà sữa từ lâu đã là thức uống quen thuộc với các bạn trẻ.
 
 Thạch phô mai là một trong những món ăn mới nổi không chỉ bắt mắt mà còn rất thơm ngon. Cách làm thạch phô mai không khác làm thạch truyền thống nhiều.
 
-1. Nguyên liệu:
+**1. Nguyên liệu:**
 
 Phần nguyên liệu làm trà sữa
 
-– Trà: trà túi lọc 1 gói
+– Trà: trà túi lọc 1 gói;
 
-– Sữa đặc có đường: 2 đến 4 thìa
+– Sữa đặc có đường: 2 đến 4 thìa;
 
 
 Phần nguyên liệu làm thạch rau câu phô mai
 
-– Phô mai con bò cười: 30 gam
+– Phô mai con bò cười: 30 gam;
 
-– Siro: 20ml (tùy hương vị bạn yêu thích)
+– Siro: 20ml (tùy hương vị bạn yêu thích);
 
-– Đường cát trắng: 100 gam
+– Đường cát trắng: 100 gam;
 
-– Bột rau câu giòn: 10 gam ( bạn có thể dùng bột gelatin)
+– Bột rau câu giòn: 10 gam (bạn có thể dùng bột gelatin);
 
 
-2. Dụng cụ
+**2. Dụng cụ**
 
-Ống hút cỡ lớn
+Ống hút cỡ lớn;
 
-Ly đựng trà sữa
+Ly đựng trà sữa;
 
-1 Bình lớn
+1 Bình lớn;
 
-Các khuôn hoặc khay làm đá
+Các khuôn hoặc khay làm đá;
 
-Thìa
+Thìa;
 
-1 nồi nhỏ nấu thạch
+1 nồi nhỏ nấu thạch;
 
-3. Các bước thực hiện cách làm trà sữa thạch phô mai
+**3. Các bước thực hiện cách làm trà sữa thạch phô mai**
 
-Phần làm trà sữa: gồm 2 bước
+*Phần làm trà sữa: gồm 2 bước*
 
 Bước 1: Đun sôi nước và rót vào ly đã chuẩn bị trước. Cho trà túi lọc vào ly rồi đợi khoảng 15 phút cho trà ngấm.
 
 Bước 2: Cho sữa đặc vào ly trà đã pha ở bước 1 và khuấy đều cho sữa tan.
 
 
-Phần làm thạch rau câu phô mai: gồm 6 bước
+*Phần làm thạch rau câu phô mai: gồm 6 bước*
 
 Bước 1: Đặt nồi lên bếp và cho vào khoảng 1 lít nước. Cho siro vào nồi và khuấy đều tay để nước và siro hòa lẫn vào nhau. Sau đó bạn mở bếp và để lửa vừa.
 
@@ -82,16 +82,17 @@ Bước 6: Khi trà đã nguội thì bạn cho thạch và đá vào ly và th�
 
 Lưu ý khi thực hiện cách làm trà sữa thạch phô mai
 
- Đối với trà để có hương vị chuẩn nhất bạn nên dùng các loại trà đen của Đài Loan( Ô long, hồng trà) hoặc trà xanh (lục trà nhài). Còn đối với trà túi lọc bạn nên dùng trà Lipton vì có hương vị cũng gần giống các loại trà trên.
-4-tra
+Đối với trà để có hương vị chuẩn nhất bạn nên dùng các loại trà đen của Đài Loan( Ô long, hồng trà) hoặc trà xanh (lục trà nhài). Còn đối với trà túi lọc bạn nên dùng trà Lipton vì có hương vị cũng gần giống các loại trà trên.
+
+**4. Trà**
 
 Phần trà sữa để có vị ngậy như ngoài quán thì bạn nên dùng bột trà sữa chuyên dụng và bột sữa đài loan Special tone coffee-mate là loại tốt nhất. Bạn có thể tìm thấy loại bột này tại cửa hàng nguyên liệu pha chế đồ uống vietblend với định lượng là 3 thìa/cốc (loại thìa trong hộp)
 
-Đối với bột rau câu, trên thị trường có bán 2 loại là Agar và Jelly. Bột Jelly dai, hơi ướt khi đông lại trong khi bột Agar thì cứng, giòn và khô mặt khi thành khối. Jelly có giá thành hơi nhỉnh hơn Agar một chút bạn nhé. Nếu bạn thích thạch ăn mềm và dễ hút bằng ống thì nên dùng bột Jelly. Khi tiến hành, bạn cũng có thể dùng cả hai loại với tỷ lệ 2 Agar : 1 Jelly để tạo thạch vừa có độ dẻo vừa có hình khối đẹp.
+Đối với bột rau câu, trên thị trường có bán 2 loại là Agar và Jelly. Bột Jelly dai, hơi ướt khi đông lại trong khi bột Agar thì cứng, giòn và khô mặt khi thành khối. Jelly có giá thành hơi nhỉnh hơn Agar một chút bạn nhé. Nếu bạn thích thạch ăn mềm và dễ hút bằng ống thì nên dùng bột Jelly. Khi tiến hành, bạn cũng có thể dùng cả hai loại với tỷ lệ 2 Agar: 1 Jelly để tạo thạch vừa có độ dẻo vừa có hình khối đẹp.
 
 Bạn cũng có thể tạo viên thạch nhiều màu như thế này bằng cách đổ nhiều lớp nước thạch khác màu nhau vào khuôn khi lớp màu dưới vừa khô.
 
 
- Nhân phô mai hơi béo nên các bạn lưu ý chọn thạch có vị chua hoặc vị cafe để cân bằng vị và ăn ngon miệng hơn. Nếu bạn thích trà sữa có mùi thơm đặc biệt và ngất ngây hơn, bạn có thể thay một lít nước dừa để hòa tan với siro thay vì nước lọc thông thường.
+Nhân phô mai hơi béo nên các bạn lưu ý chọn thạch có vị chua hoặc vị cafe để cân bằng vị và ăn ngon miệng hơn. Nếu bạn thích trà sữa có mùi thơm đặc biệt và ngất ngây hơn, bạn có thể thay một lít nước dừa để hòa tan với siro thay vì nước lọc thông thường.
 
 Giờ đây các bạn chắc chắn đã tự tin pha cho mình và bạn bè những ly trà sữa thanh mát và hấp dẫn rồi. Chẳng có gì tuyệt vời hơn khi bạn thưởng thức một bát thạch phô mai mát lạnh hay như mùa đông được ăn một cốc trà sữa phô mai nóng phải không.
