@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/v8tmVSEyB00/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-15T13:12:33.962Z
-description:
+date: 2019-11-12T13:12:33.962Z
+description: Frappuccino là nguồn gốc của dòng đồ uống đá xay mà chúng ta yêu thích, do Starbucks sáng chế và đã được cấp bản quyền thương hiệu.
 
 ---
 
@@ -22,17 +22,17 @@ Frappuccino nguyên thủy – như cái tên của nó – là sự kết hợp
 
 **Nguyên liệu:**
 
-Café espresso: 50 – 60ml (double shot)
+Café espresso: 50 – 60ml (double shot);
 
-Bột Frappe (bột mix/bột sữa): 30g (khoảng 2 thìa canh đầy)
+Bột Frappe (bột mix/bột sữa): 30g (khoảng 2 thìa canh đầy);
 
-Đường hạt: 20g
+Đường hạt: 20g;
 
-Đá: 1 cup 12oz (đong bằng cốc nhựa take away 350ml)
+Đá: 1 cup 12oz (đong bằng cốc nhựa take away 350ml);
 
-Kem whipping: cách làm kem whipping không cần bình kem đã hướng dẫn ở bài cookie đá xay
+Kem whipping: cách làm kem whipping không cần bình kem đã hướng dẫn ở bài cookie đá xay;
 
-Dụng cụ: Máy pha café, Máy xay sinh tố xay được đá (hoặc máy xay đá công nghiệp)
+Dụng cụ: Máy pha café, Máy xay sinh tố xay được đá (hoặc máy xay đá công nghiệp);
 
 **Cách làm:**
 

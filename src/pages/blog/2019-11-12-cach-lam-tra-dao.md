@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/lz8wCfvzfMw/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-15T13:12:33.962Z
-description:
+date: 2019-11-12T13:12:33.962Z
+description: Cơn sốt trà đào đã đi qua nhưng nó vẫn là thức uống giải khát ưa thích của giới trẻ, đặc biệt là trong mùa hè.
  
 ---
 
@@ -19,33 +19,33 @@ Trà đào ngon nhất khi uống lạnh, vì lắc với thật nhiều đá s�
 
 **1. Nguyên liệu (để pha 1 cốc khoảng 350ml)**
 
-– Trà túi lọc Cozy hương đào: 1 túi (Bạn có thể thay thế bằng trà Lipton hoặc Cozy Hồng trà cũng được, nhưng tốt nhất nên dùng trà đào cho chuẩn vị)
+– Trà túi lọc Cozy hương đào: 1 túi (Bạn có thể thay thế bằng trà Lipton hoặc Cozy Hồng trà cũng được, nhưng tốt nhất nên dùng trà đào cho chuẩn vị);
 
-– Nước nóng: 100ml
+– Nước nóng: 100ml;
 
-– Siro đào: 15ml (Có nhiều hãng siro khác nhau, nếu không muốn dùng siro bạn có thể mua đào tươi về tự ngâm, nhưng sẽ không được thơm như khi dùng siro)
+– Siro đào: 15ml (Có nhiều hãng siro khác nhau, nếu không muốn dùng siro bạn có thể mua đào tươi về tự ngâm, nhưng sẽ không được thơm như khi dùng siro);
 
-– Nước đào ngâm đóng hộp: 20ml
+– Nước đào ngâm đóng hộp: 20ml;
 
-– Đường nước: 25ml
+– Đường nước: 25ml;
 
-– Đào ngâm: ¼ quả (bạn mua hộp đào ngâm sẵn ngoài siêu thị nhé)
+– Đào ngâm: ¼ quả (bạn mua hộp đào ngâm sẵn ngoài siêu thị nhé);
 
-– Lá bạc hà: 3 cọng
+– Lá bạc hà: 3 cọng;
 
-– Đá viên
+– Đá viên;
 
 **2. Cách làm trà đào:**
 
-– Ngâm túi trà với 100ml nước nóng trong vòng 3 phút
+– Ngâm túi trà với 100ml nước nóng trong vòng 3 phút;
 
-– Cắt đào thành miếng mỏng, cho trước vào cốc
+– Cắt đào thành miếng mỏng, cho trước vào cốc;
 
-– Cho siro đào, nước đào ngâm, đường nước, nước cốt trà vào bình shake
+– Cho siro đào, nước đào ngâm, đường nước, nước cốt trà vào bình shake;
 
-– Thêm đầy đá, đậy nắp và lắc đều
+– Thêm đầy đá, đậy nắp và lắc đều;
 
-– Đổ hỗn hợp trà đào ra cốc
+– Đổ hỗn hợp trà đào ra cốc;
 
 – Trang trí bằng lá bạc hà tươi.
 
