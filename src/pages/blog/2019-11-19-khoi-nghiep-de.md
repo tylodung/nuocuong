@@ -6,8 +6,8 @@ image: 'https://blog.viecngay.vn/wp-content/uploads/2018/02/nghe-pha-che-cafe.jp
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-15T13:12:33.962Z
-description:
+date: 2019-11-19T13:12:33.962Z
+description: Câu chuyện về khởi nghiệp luôn là mối quan tâm hàng đầu của rất nhiều bạn trẻ muốn kinh doanh thành công.
 
 ---
 

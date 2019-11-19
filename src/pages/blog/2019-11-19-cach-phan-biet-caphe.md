@@ -6,12 +6,12 @@ image: 'https://i.ytimg.com/vi/kWgbVn7AHRk/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-16T13:12:33.962Z
-description:
+date: 2019-11-19T13:12:33.962Z
+description: Chỉ cần một chút tinh ý và một vài kiến thức cơ bản là bạn đã có thể phân biệt cà phê Cappuccino & Latte để thưởng thức đúng điệu nhất 2 loại cà phê nổi tiếng thế giới đến từ đất nước Ý xinh đẹp.
  
 ---
 
-Chỉ cần một chút tinh ý và một vài kiến thức cơ bản là bạn đã có thể phân biệt cà phê Cappuccino & Latte để thưởng thức đúng điệu nhất 2 loại cà phê nổi tiếng thế giới đến từ đất nước Ý xinh đẹp.
+
 
 Nếu người thưởng thức không thật sành sẽ khó có thể phân biệt Latte với Cappuccino và dễ nhầm lẫn vị của chúng bởi cả hai đều có 3 thành phần cơ bản: cafe espresso, sữa nóng và bọt sữa. Vậy rốt cục thì hai loại cafe này có hương vị như thế nào? Cách pha chế ra sao mà để lại ấn tượng mạnh mẽ với dân ghiền cà phê thế giới?
 

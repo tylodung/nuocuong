@@ -6,8 +6,8 @@ image: 'https://media.cooky.vn/images/blog-2016/mach-ban-cach-phan-biet-ca-phe-t
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-15T13:12:33.962Z
-description:
+date: 2019-11-19T13:12:33.962Z
+description: Vài năm gần đây, ngoài phụ gia, còn có nhiều loại hóa chất độc hại được cho vào cà phê.
 
 ---
 
