@@ -6,14 +6,14 @@ image: 'https://kenh14cdn.com/2018/4/12/doibung2-1523511128144996858668.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-16T13:12:33.962Z
-description:
+date: 2019-11-21T13:12:33.962Z
+description: Với những công sở, những người đi làm, cà phê được xem là thức uống không thể thiếu mỗi ngày.
 
 ---
 
 Với những công sở, những người đi làm, cà phê được xem là thức uống không thể thiếu mỗi ngày. Cà phê cải thiện tâm trạng, giúp bạn tỉnh táo để tập trung làm việc. Tuy nhiên, nếu bạn uống không đúng cách, cà phê có thể tác động ngược lại. 
 
-Bởi lẽ, cà phê qua quá trình thu hoạch, rang xay đã làm biến đổi một số chất dinh dưỡng, đòi hỏi bạn cần xem xét kỹ lưỡng khi kết hợp với một số nguyên liệu khác. Vậy hãy cùng Vietblend khám phá 6 cách uống cà phê lành mạnh sau nhé:
+Bởi lẽ, cà phê qua quá trình thu hoạch, rang xay đã làm biến đổi một số chất dinh dưỡng, đòi hỏi bạn cần xem xét kỹ lưỡng khi kết hợp với một số nguyên liệu khác.
 
 **Chọn loại cà phê chất lượng**
 

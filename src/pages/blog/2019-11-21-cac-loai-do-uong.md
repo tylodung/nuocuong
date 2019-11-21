@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/04/lutulata-quan-cafe-dep
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-16T13:12:33.962Z
-description:
+date: 2019-11-21T13:12:33.962Z
+description: Để khách hàng dễ lựa chọn khi bước vào quán, menu quán nên được phân rõ ra các nhóm đồ uống khác nhau.
 
 ---
 Để khách hàng dễ lựa chọn khi bước vào quán, menu quán nên được phân rõ ra các nhóm đồ uống khác nhau. Mỗi 1 menu quán cafe thông thường dao động từ 30 – 50 món.
@@ -54,7 +54,7 @@ Có rất nhiều sự lựa chọn cho 1 ly ice blended: Coffee, Mocha, Vanilla
 
 Sự độc đáo của mojito nằm ở sự hòa quyện giữa cảm giác của đồ uống có ga và các hương vị thơm ngon khác của hoa quả tươi, sữa hoặc rất nhiều hương vị đặc biệt và độc đáo khác.
 
-Soda có rất nhiều công thức pha chế khác nhau,, đó cũng là 1 trong những yếu tố làm nên sức hấp dẫn của loại đồ uống này. Các loại soda hot có thể kể tới mojito việt quất, blue ocean, … Bạn có thể tham khảo cách làm mojito việt quất.
+Soda có rất nhiều công thức pha chế khác nhau, đó cũng là 1 trong những yếu tố làm nên sức hấp dẫn của loại đồ uống này. Các loại soda hot có thể kể tới mojito việt quất, blue ocean, … Bạn có thể tham khảo cách làm mojito việt quất.
 
 Các loại soda được yêu thích bởi hương vị ngọt, giải khát tốt vì vậy sẽ bán tốt nhất vào các dịp mùa hè.
 
