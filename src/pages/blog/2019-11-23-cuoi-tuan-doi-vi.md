@@ -6,8 +6,8 @@ image: 'https://bizweb.dktcdn.net/100/004/714/files/tra-sua-hat-de.jpg?v=1547633
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-16T13:12:33.962Z
-description:
+date: 2019-11-23T13:12:33.962Z
+description: Cà phê là một loại thức uống rất gần gũi với người dân Việt Nam, trân châu được biết đến như là một loại là một loại topping ăn kèm trong trà sữa rất được ưa chuộng. 
 
 ---
 
@@ -19,34 +19,34 @@ Cuối tuần tiết trời trở lạnh như thế này mà được nhâm nhi 
 
 **Nguyên liệu làm sinh tố cà phê trân châu gồm có:**
 
-Cà phê (dạng bột hoặc có thể dùng cà phê hòa tan)
+Cà phê (dạng bột hoặc có thể dùng cà phê hòa tan);
 
-Sữa tươi
+Sữa tươi;
 
-Sữa đặc
+Sữa đặc;
 
-Hạt trân châu đen (hoặc trắng)
+Hạt trân châu đen (hoặc trắng);
 
-Bột Cacao
+Bột Cacao;
 
 Đá viên.
 
 **Cách thực hiện:**
 
-Bước 1: Pha cà phê
+*Bước 1: Pha cà phê*
 
-Trước tiên bạn pha cà phê để lấy phần nước cà phê sau đó để nguội. Các bạn hoàn toàn có thể thay thế bằng cà phê hòa tan cũng được nhưng để ly sinh tố cà phê trân châu đậm mùi vị thì Vietblend khuyên bạn nên dùng bột cà phê pha phin hoặc pha máy nhé!
+Trước tiên bạn pha cà phê để lấy phần nước cà phê sau đó để nguội. Các bạn hoàn toàn có thể thay thế bằng cà phê hòa tan cũng được nhưng để ly sinh tố cà phê trân châu đậm mùi vị thì bạn nên dùng bột cà phê pha phin hoặc pha máy nhé!
 
-Bước 2: Luộc trân châu
+*Bước 2: Luộc trân châu*
 
 Luộc trân châu trong nước nóng khoảng 5 phút sau đó tắt bếp và ủ trong 10 phút. Trong thời gian ủ bạn tiếp tục hòa tan đường nâu với nước và đun sôi đến khi đường sánh thì vớt trân châu đã ủ xong vào dung dịch này.
 
-Bước 3: Xay sinh tố
+*Bước 3: Xay sinh tố*
 
 
 Khi cà phê đã nguội bạn cho tất cả các nguyên liệu bao gồm: nước cà phê, sữa tươi, sữa đặc, đá viên vào xay nhuyễn.
 
-Bước 4: Trang trí
+*Bước 4: Trang trí*
 
 Chuẩn bị một ly lớn cổ cao, múc trân châu đã chuẩn bị ở bước 2 vào sau đó đổ hỗn hợp sinh tố cà phê đã xay vào và trang trí trên bề mặt là bột ca cao rắc lên, thêm 1 chiếc ống hút chuyên dụng dùng để uống trà sữa là bạn đã có ngay một ly sinh tố cà phê trân châu phá cách lạ miệng để mời mọi người thưởng thức rồi.
 

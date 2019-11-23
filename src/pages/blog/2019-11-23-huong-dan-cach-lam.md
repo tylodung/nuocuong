@@ -6,8 +6,8 @@ image: 'https://www.disneycooking.com/wp-content/uploads/2019/05/mua_heavy_whipp
 tags:
   - kem
 uev: 4.18.6
-date: 2019-07-18T13:12:33.962Z
-description:
+date: 2019-11-23T13:12:33.962Z
+description: Whipping cream không những có vị ngậy mà còn rất thơm khi kết hợp cùng những chiếc bánh hay cùng các loại đồ uống đều đem đến vị ngon tuyệt hảo.
 
 ---
 
@@ -25,7 +25,7 @@ Whipping cream hoặc whipped cream là loại kem đã được đánh bông l�
 Whipping cream là chính là một loại kem giống với heavy cream, gọi là whipping là vì người ta tự đánh (whip) lên thành kem có nghĩa là chúng ta phải tự đánh tại nhà chứ không được đánh bông sẵn như whipped cream. Và có rất nhiều người hiểu lầm rằng loại whipping cream này là kem tươi. Loại whipping cream này thực chất là một hỗn hợp gồm sữa bò nguyên chất (không tách bơ) và bơ và được dùng làm kem bông cho các loại bánh tráng miệng.
 
 
-Nhưng thực ra bạn có thể làm whipping cream socola, dâu, hay bất cứ loại hoa quả nào bạn thích. Đơn giản là lựa chọn tỉ lệ phù hợp giữa kem và thành phần kia (socola, nước cốt trái cây) sao cho đạt độ ngon và độ cứng bạn mong muốn. Và bạn có thể làm những món khác nữa chứ đâu riêng gì kem !
+Nhưng thực ra bạn có thể làm whipping cream socola, dâu, hay bất cứ loại hoa quả nào bạn thích. Đơn giản là lựa chọn tỉ lệ phù hợp giữa kem và thành phần kia (socola, nước cốt trái cây) sao cho đạt độ ngon và độ cứng bạn mong muốn. Và bạn có thể làm những món khác nữa chứ đâu riêng gì kem!
 
 – Whipping cream là kem tươi có nguồn gốc từ động vật, được làm từ sữa bò tươi. Chính vì thế mà kem tươi được làm từ whipping cream có độ béo cao cùng với vị ngậy và thơm của sữa tan trong miệng.
 

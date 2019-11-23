@@ -6,8 +6,8 @@ image: 'https://thue.today/media/images/section/post/1537438063_l%C3%A0m-th%E1%B
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-16T13:12:33.962Z
-description:
+date: 2019-11-23T13:12:33.962Z
+description: Ngày nay khi thưởng thức rượu vang được xem như là một nghệ thuật và để giúp khách hàng tận hưởng trọn vẹn nhất thì sự chuyên nghiệp trong cách phục vụ rượu vang sẽ giúp khách hàng hiểu được giá trị.
  
 ---
 
