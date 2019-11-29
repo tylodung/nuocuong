@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/wA1BpjEtDRs/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-17T13:12:33.962Z
-description:
+date: 2019-11-29T13:12:33.962Z
+description: Tuy phổ biến trong hầu hết quán pha chế nhưng không được đánh giá cao đó chính là đá viên.
  
 ---
 

@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/UlA3UyZR9vo/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-17T13:12:33.962Z
-description:
+date: 2019-11-29T13:12:33.962Z
+description: “Macchiato” tiếng Ý có nghĩa là “vệt lốm đốm”, dùng để chỉ một trong những sản phẩm café Ý điển hình, bên cạnh Cappuccino hay Latte.
 
 ---
 
@@ -33,33 +33,33 @@ Latte Macchiato thường được ưa chuộng hơn, và một biến thể c�
 
 **Cách pha chế café Caramel Macchiato đúng chuẩn café Ý**
 
-Để pha được các dòng sản phẩm café Ý, bạn cần có máy pha café và các dụng cụ đi kèm khác.  Bạn nên tham gia 1 khóa học pha chế cà phê để nắm được những kỹ thuật chiết xuất và đánh sữa cơ bản.
+Để pha được các dòng sản phẩm café Ý, bạn cần có máy pha café và các dụng cụ đi kèm khác. Bạn nên tham gia 1 khóa học pha chế cà phê để nắm được những kỹ thuật chiết xuất và đánh sữa cơ bản.
 
 *Nguyên liệu:*
 
-Café espresso
+Café espresso;
 
-Sữa tươi thanh trùng: 200ml
+Sữa tươi thanh trùng: 200ml;
 
-Sauce Caramel Davinci: 20ml
+Sauce Caramel Davinci: 20ml;
 
-Đường nước: 5ml
+Đường nước: 5ml;
 
 *Cách làm:*
 
 Bước 1: Chuẩn bị 1 cốc thủy tinh trong có quai đã lau sạch (đồ nóng nên dùng cốc có quai). Cho 15ml sauce caramel và 5ml đường nước vào đáy ly.
 
-Bước 2: Cho sữa vào ca đánh sữa, sục nóng, tạo nhiều bọt
+Bước 2: Cho sữa vào ca đánh sữa, sục nóng, tạo nhiều bọt;
 
-Bước 3: Xử lý bọt sữa
+Bước 3: Xử lý bọt sữa;
 
-Bước 4: Múc bọt phủ bao quanh thành cốc, sau đó múc 1 thìa bọt to phủ lên trên lớp caramel
+Bước 4: Múc bọt phủ bao quanh thành cốc, sau đó múc 1 thìa bọt to phủ lên trên lớp caramel;
 
-Bước 5: Đổ từ từ sữa theo dòng nhỏ vào chính giữa, vừa đổ vừa lấy thìa gạn bọt đều tay. Đổ đến khi sữa và bọt cách miệng cốc 0.3cm
+Bước 5: Đổ từ từ sữa theo dòng nhỏ vào chính giữa, vừa đổ vừa lấy thìa gạn bọt đều tay. Đổ đến khi sữa và bọt cách miệng cốc 0.3cm;
 
-Bước 6: Chiết xuất 1 shot espresso single
+Bước 6: Chiết xuất 1 shot espresso single;
 
-Bước 7: Rót từ từ café vào chính giữa cốc. Café sẽ xuyên qua lớp bọt, nằm giữa lớp sữa và bọt sữa
+Bước 7: Rót từ từ café vào chính giữa cốc. Café sẽ xuyên qua lớp bọt, nằm giữa lớp sữa và bọt sữa;
 
 Bước 8: Múc 1 thìa bọt nhỏ phủ lên vệt café. Décor bằng 5ml sauce caramel còn lại. 
 

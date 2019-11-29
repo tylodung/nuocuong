@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/qFGrCEjswak/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-17T13:12:33.962Z
-description:
+date: 2019-11-29T13:12:33.962Z
+description: Nếu bạn là 1 fan của cafe take-away, chắc hẳn bạn đã ít nhất 1 lần nghe tới món cafe Mocha.
 
 ---
 
@@ -24,32 +24,32 @@ Vì Mocha sử dụng café espresso, nên để pha được tất nhiên bạn
 
 Dưới đây là công thức và cách làm Mocha nóng cho mùa đông và Mocha đá dành cho mùa hè nhé!
 
-Máy móc, dụng cụ cần chuẩn bị:
+*Máy móc, dụng cụ cần chuẩn bị:*
 
-Máy pha café (có vòi sục sữa)
+Máy pha café (có vòi sục sữa);
 
-Máy xay cafe (nếu bạn dùng cafe hạt thì phải có máy xay cafe. Để cafe giữ được hương vị ngon nhất thì khi nào pha mới xay cafe)
+Máy xay cafe (nếu bạn dùng cafe hạt thì phải có máy xay cafe. Để cafe giữ được hương vị ngon nhất thì khi nào pha mới xay cafe);
 
-Ca đánh sữa (với đồ nóng)
+Ca đánh sữa (với đồ nóng);
 
-Bình shaker (bình lắc – dùng cho đồ lạnh)
+Bình shaker (bình lắc – dùng cho đồ lạnh);
 
-Zic đong (ca đong ml)
+Zic đong (ca đong ml);
 
 **2. Cách làm Mocha nóng (size M – single)**
 
 
-Công thức:
+*Công thức:*
 
-Café espresso: 25-30ml
+Café espresso: 25-30ml;
 
-Sữa tươi thanh trùng: 180ml
+Sữa tươi thanh trùng: 180ml;
 
-Sauce Chocolate: 15ml
+Sauce Chocolate: 15ml;
 
-Bột Cacao
+Bột Cacao;
 
-Cách làm:
+*Cách làm:*
 
 Làm nóng cốc sứ bằng cách cho nước sôi vào lòng cốc, để 1 lúc rồi đổ đi, lau khô cốc.
 
@@ -59,11 +59,11 @@ Lấy sữa vào ca đánh sữa
 
 Chiết xuất 1 shot espresso single (chảy thẳng vào trong cốc).
 
-Trong thời gian café chảy, đánh nóng sữa tươi tạo bọt mỏng như bọt latte
+Trong thời gian café chảy, đánh nóng sữa tươi tạo bọt mỏng như bọt latte;
 
-Xử lý bọt sữa
+Xử lý bọt sữa;
 
-Rắc bột cacao phủ đều khắp bề mặt lớp creama của café
+Rắc bột cacao phủ đều khắp bề mặt lớp creama của café;
 
 Đổ sữa từ từ vào café, tạo art tùy thích.
 
@@ -72,28 +72,28 @@ Thế là bạn đã có một cốc Mocha ngon tuyệt rồi. Khi uống bạn 
 
 **3. Cách làm Mocha đá**
 
-Công thức:
+*Công thức:*
 
-Café espresso: 50 – 60ml
+Café espresso: 50 – 60ml;
 
-Sữa tươi không đường: 80ml
+Sữa tươi không đường: 80ml;
 
-Sauce Chocolate: 10ml
+Sauce Chocolate: 10ml;
 
-Đường nước: 10ml
+Đường nước: 10ml;
 
-Đá viên
+Đá viên;
 
-Cách làm:
+*Cách làm:*
 
-Đong sữa, sauce chocolate, đường vào bình shake
+Đong sữa, sauce chocolate, đường vào bình shake;
 
-Chiết xuất 1 shot espresso double
+Chiết xuất 1 shot espresso double;
 
-Đổ café vào trong bình shake, thêm đầy đá, đóng nắp lại và lắc đều
+Đổ café vào trong bình shake, thêm đầy đá, đóng nắp lại và lắc đều;
 
 Rót ra cốc, rắc chút bột cacao lên lớp bọt để cho bắt mắt.
 
-Bạn có thể thêm 1 lớp kem lên trên để tăng độ hấp dẫn cho đồ uống
+Bạn có thể thêm 1 lớp kem lên trên để tăng độ hấp dẫn cho đồ uống;
 
 Trời nóng mà có cốc mocha đá để nhâm nhi, vừa đá khát, vừa tỉnh táo đầu óc, còn gì bằng!
