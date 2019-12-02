@@ -4,10 +4,10 @@ path: /vua-la-vua-ngon
 title: Món lạ vừa ngon với Trà xanh kiwi vàng
 image: 'https://i.ytimg.com/vi/MeXfI1M1exc/maxresdefault.jpg' 
 tags:
-  - cafe
+  - Tea
 uev: 4.18.6
-date: 2019-07-17T13:12:33.962Z
-description:
+date: 2019-12-02T13:12:33.962Z
+description: Trong tiết trời nóng nực của mùa hè thì một ly trà xanh kiwi vàng mát lạnh sẽ là giải pháp hiệu quả nhất giúp cơ thể trở về trạng thái mát lạnh.
 
 ---
 
@@ -19,9 +19,9 @@ Trong tiết trời nóng nực của mùa hè thì một ly trà xanh kiwi vàn
 
 **Nguyên liệu:**
 
-150 ml Trà xanh Nhài
+150 ml Trà xanh Nhài;
 
-20 ml SHOTT Gold Kiwi (Kiwi vàng)
+20 ml SHOTT Gold Kiwi (Kiwi vàng);
 
 30 ml đường.
 

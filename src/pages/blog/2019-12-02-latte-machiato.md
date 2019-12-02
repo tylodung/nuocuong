@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/riGGxPR0iSg/maxresdefault.jpg'
 tags:
   - cafe
 uev: 4.18.6
-date: 2019-07-20T13:12:33.962Z
-description:
+date: 2019-12-02T13:12:33.962Z
+description: Giữa khí trời se se lạnh, được ngồi trong quán cafe hoặc sum vầy bên gia đình và cùng nhau thưởng thức 1 ly Latte Macchiato thì cảm xúc thật không gì bằng.
  
 ---
 
@@ -34,19 +34,19 @@ Bởi lớp sữa chứa nhiều chất béo nên có độ đậm đặc cao h�
 
 **Bước 1:** Cách làm Latte Machiato bạn cần chuẩn bị (cho 1 ly)
 
-– Một máy pha cà phê Espresso
+– Một máy pha cà phê Espresso;
 
-– Một ly thủy tinh (dung tích 240ml)
+– Một ly thủy tinh (dung tích 240ml);
 
-– Một ca rộng đáy (400ml)
+– Một ca rộng đáy (400ml);
 
-– Nước
+– Nước;
 
-– Sữa tươi đã làm lạnh (180ml)
+– Sữa tươi đã làm lạnh (180ml);
 
-– Cà phê chuyên dùng để pha Espresso (20gr)
+– Cà phê chuyên dùng để pha Espresso (20gr);
 
-– Đường que : 1 gói
+– Đường que : 1 gói;
 
 **Bước 2:** Đun nước
 
