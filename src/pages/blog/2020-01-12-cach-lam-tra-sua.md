@@ -4,10 +4,10 @@ path: /cach-lam-tra-sua
 title: Cách làm Trà sữa Gong Cha milk foam đơn giản tại nhà
 image: 'https://i.ytimg.com/vi/wu-R66xtU30/maxresdefault.jpg' 
 tags:
-  - kem
+  - Kem
 uev: 4.18.6
-date: 2019-07-19T13:12:33.962Z
-description:
+date: 2020-01-12T13:12:33.962Z
+description: Bấy lâu nay cái tên trà sữa Gong Cha đã trở thành cái tên quá quen thuộc với giới trẻ Việt Nam, luôn là địa chỉ được tìm kiếm nhiều nhất cho các buổi gặp nhau..
  
 ---
 
@@ -18,13 +18,13 @@ Bấy lâu nay cái tên trà sữa Gong Cha đã trở thành cái tên quá qu
 
 Công thức trà sữa Gong Cha milk foam đây là loại thức uống nổi tiếng và đã làm nên thương hiệu Gong Cha như ngày nay, là thức uống kết hợp giữa trà sữa và  foam (nhiều loại foam khác nhau và nổi tiếng nhất là foam milk) tuy nhiên hôm nay mình sẽ hướng dẫn các bạn làm Foam cốt dừa.
 
- Nước cốt dừa (Wonderfarm): 50ml;
+Nước cốt dừa (Wonderfarm): 50ml;
 
- Sữa đặc: 20ml;
+Sữa đặc: 20ml;
 
- Kem Rich’s: 20ml;
+Kem Rich’s: 20ml;
 
- Frappychoice: 10ml;
+Frappychoice: 10ml;
 
 Cho toàn bộ hỗn hợp trên vào máy SEVERIN đánh sữa trong vòng 20s, sử dụng qua nhiều máy đánh sữa khác trên thị trường, chúng tôi thấy máy Severin có khả năng đánh sữa tốt nhất và cho ra hỗn hợp foam milk, foam chesse, foam cốt dừa,…. chất lượng nhất.
 

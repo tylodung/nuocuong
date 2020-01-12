@@ -4,10 +4,10 @@ path: /doi-vi-voi-mon
 title: Đổi vị với món trà sữa bạc hà thơm mát nào!
 image: 'https://i.ytimg.com/vi/TrgtVgUk9sU/maxresdefault.jpg' 
 tags:
-  - kem
+  - Kem
 uev: 4.18.6
-date: 2019-07-18T13:12:33.962Z
-description:
+date: 2020-01-12T13:12:33.962Z
+description: Một ly trà sữa bạc hà với vị the mát của bạc hà, béo của sữa kèm theo những hạt trân châu dẻo dẻo dai dai chắc chắn sẽ là một hương vị mới cực kỳ hấp dẫn.
  
 ---
 
@@ -28,22 +28,20 @@ Trà sữa trân châu từ lâu đã là món đồ uống có sức hút đế
 – 20ml syrup shott wild mint, đây là loại siro chuẩn nhất dùng trong pha chế trà sữa các bạn nhé. Các loại khác thì thích hợp dùng trong cocktail hơn.
 
 
-
 – 20g Bột sữa đài loan (Special tone coffee-mate).
 
 Mọi người cứ thắc mắc là dùng bột sữa thì có gì khác so với dùng sữa đặc như trên mạng vẫn chia sẻ. Xin chia sẻ với các bạn về thông tin này bột sữa Indo được làm từ sữa thực vật nên không hề béo mà lại có vị ngậy thơm hơn sữa động vật (sữa đặc).
-
 
 
 – Trà pha trà sữa:
 
 Các loại trà Đài Loan là chuẩn nhất ! Tùy từng sở thích mà bạn có thể lựa chọn các loại trà khác nhau. Bạn có thể tham khảo thêm những loại trà Đài Loan dùng trong pha chế trà sữa ở bài viết này nhé!
 
-– 30ml đường nước: các bạn nên dùng đường nước nhé vì sẽ dễ hòa tan hơn
+– 30ml đường nước: các bạn nên dùng đường nước nhé vì sẽ dễ hòa tan hơn.
 
 – 4ml Hỗn hợp điều vị Frappe choice Davinci sẽ giúp làm nổi bật mùi vị bạc hà trong ly trà sữa bạc hà, chống phân tách lớp khi đá tan rất hữu hiệu!
 
-– Hạt trân châu hoặc các loại topping khác tùy ý thích của bạn
+– Hạt trân châu hoặc các loại topping khác tùy ý thích của bạn.
 
 **Các bước cụ thể**
 

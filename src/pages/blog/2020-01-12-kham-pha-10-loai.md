@@ -4,10 +4,10 @@ path: /kham-pha-10-loai
 title: Tận hưởng 10 loại Cocktail ngon nổi danh khắp thế giới
 image: 'https://cdn.pose.com.vn/legacy/images/baiviet/201511/pina.jpg' 
 tags:
-  - kem
+  - Kem
 uev: 4.18.6
-date: 2019-07-19T13:12:33.962Z
-description:
+date: 2020-01-12T13:12:33.962Z
+description: Có lẽ với những ai sành về loại đồ uống này thì đây đều là những loại cocktail ngon và phổ biến khắp thế giới.
 
 ---
 
