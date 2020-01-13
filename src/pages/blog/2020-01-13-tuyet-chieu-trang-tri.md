@@ -4,15 +4,15 @@ path: /tuyet-chieu-trang-tri
 title: Bí kíp trang trí đồ uống đẹp mắt chỉ với vài mẹo đơn giản
 image: 'https://www.elleman.vn/wp-content/uploads/2019/06/25/%C4%91o%CC%82%CC%80-uo%CC%82%CC%81ng-ngon-hi%CC%80nh-a%CC%89nh-ca%CC%81c-loa%CC%A3i-cocktail-kha%CC%81c-nhau.jpg' 
 tags:
-  - kem
+  - Kem
 uev: 4.18.6
-date: 2019-07-20T13:12:33.962Z
-description:
+date: 2020-01-13T13:12:33.962Z
+description: Một cốc sinh tố thơm ngon, một ly nước ngâm mát lạnh hay những loại nước vắt trong lành sẽ trở nên hấp dẫn và ấn tượng hơn nếu bạn chăm chút hơn về hình thức.
  
 ---
 
 
-Một cốc sinh tố thơm ngon, một ly nước ngâm mát lạnh hay những loại nước vắt trong lành sẽ trở nên hấp dẫn và ấn tượng hơn nếu bạn chăm chút hơn về hình thức. 
+ 
 
 Chỉ cần một chút tinh ý và khéo léo thì đã có thể tự tay trang trí đồ uống bằng chính những nguyên vật liệu phổ biến trong pha chế.
 

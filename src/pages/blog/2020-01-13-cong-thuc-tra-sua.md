@@ -4,10 +4,10 @@ path: /cong-thuc-tra-sua
 title: Cách làm Trà Sữa Plain Jade
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/04/tra-sua.jpg' 
 tags:
-  - tra sua
+  - Tra sua
 uev: 4.18.6
-date: 2019-07-27T13:12:33.962Z
-description:
+date: 2020-01-13T13:12:33.962Z
+description: Điển hình cho dòng sản phẩm lần này chính là sự phát triển nổi bật của dòng trà đen với hương trái cây chín và hương nhãn đầy hấp dẫn.
  
 ---
 
@@ -18,7 +18,7 @@ description:
 
 Chuyên gia đầu ngành của thương hiệu High Tea tung ra sản phẩm lần này trọng lượng được đóng gói 600g/túi tiện lợi cho chủ quán và dễ dàng bảo quản chất lượng của trà.
 
-Tiếp nối các dòng trà thuộc thương hiệu High Tea cao cấp đang độc quyền phân phối thì sản phẩm lần này vẫn có đầy đủ giấy công bố chất lượng sản phẩm. Đặc biệt hơn mức giá dành cho sản phẩm mới lần này vô cùng hợp lý chỉ : 198.000VNĐ/túi 600gram
+Tiếp nối các dòng trà thuộc thương hiệu High Tea cao cấp đang độc quyền phân phối thì sản phẩm lần này vẫn có đầy đủ giấy công bố chất lượng sản phẩm. Đặc biệt hơn mức giá dành cho sản phẩm mới lần này vô cùng hợp lý chỉ: 198.000VNĐ/túi 600gram.
 
 Bổ sung cho dòng sản phẩm mới lần này, gửi các bạn công thức pha chế trà sữa Plain Jade được pha từ chính dòng trà Plain Jade hứa hẹn sẽ tạo lên cơn sốt trên thị trường năm nay.
 
