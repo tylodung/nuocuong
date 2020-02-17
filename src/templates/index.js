@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://kenh14cdn.com/2016/pic-16-1477197998912.gif.png' title="Appstore Cream" tagline="
+        <Header image='https://kenh14cdn.com/2016/pic-16-1477197998912.gif.png' title="Món Ngon Bà 5" tagline="
 Drinking is addicted.." />
       
         <main id="site-main" className="site-main outer" role="main">
